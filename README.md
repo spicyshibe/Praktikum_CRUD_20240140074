@@ -26,7 +26,8 @@ Repositori ini berisi proyek tugas praktikum pengembangan backend menggunakan fr
 ### 1. Halaman Utama
 <img width="1710" height="1112" alt="Screenshot 2026-03-03 at 12 36 02" src="https://github.com/user-attachments/assets/9d62cfcc-ddcf-4690-8b29-b1fd158d3a93" />
 
-### 1. Tambah Data
+### 2. Tambah Data
+<img width="1710" height="1112" alt="Screenshot 2026-03-03 at 12 36 45" src="https://github.com/user-attachments/assets/7aeb8fba-fca2-4cf2-a7d3-d8df97416a15" />
 
 
 
