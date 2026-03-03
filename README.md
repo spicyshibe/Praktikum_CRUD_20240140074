@@ -23,7 +23,7 @@ Repositori ini berisi proyek tugas praktikum pengembangan backend menggunakan fr
 
 ## 📸 Dokumentasi 
 
-### 1. 
+### 1. Halaman Utama
 
 
 ---
